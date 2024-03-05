@@ -1,0 +1,14 @@
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\bin\Debug\net8.0\SIT331 1-1p.exe
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\bin\Debug\net8.0\SIT331 1-1p.deps.json
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\bin\Debug\net8.0\SIT331 1-1p.runtimeconfig.json
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\bin\Debug\net8.0\SIT331 1-1p.dll
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\bin\Debug\net8.0\SIT331 1-1p.pdb
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\SIT331 1-1p.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\SIT331 1-1p.AssemblyInfoInputs.cache
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\SIT331 1-1p.AssemblyInfo.cs
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\SIT331 1-1p.csproj.CoreCompileInputs.cache
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\SIT331 1-1p.dll
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\refint\SIT331 1-1p.dll
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\SIT331 1-1p.pdb
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\SIT331 1-1p.genruntimeconfig.cache
+C:\Users\hugo5\OneDrive - Deakin University\T1 - 2024\SIT331 - FULLSTACK\SIT331 Tasks\SIT331 1-1p\obj\Debug\net8.0\ref\SIT331 1-1p.dll

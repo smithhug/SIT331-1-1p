@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SIT331 1-1p/1.0.0": {
+        "runtime": {
+          "SIT331 1-1p.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SIT331 1-1p/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
